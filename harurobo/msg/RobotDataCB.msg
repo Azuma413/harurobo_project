@@ -1,0 +1,6 @@
+int32 hat_shoulder_success
+int32 sword_A_shoulder_success
+int32 sword_B_shoulder_success
+int32 launcher_linear_success
+float32 omni_x
+float32 omni_y

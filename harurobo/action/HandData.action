@@ -1,0 +1,9 @@
+#goal
+float32 hand_angle
+float32 wrist_angle
+float32 shoulder_angle
+---
+#result
+bool success
+---
+#feedback

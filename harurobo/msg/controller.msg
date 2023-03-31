@@ -1,0 +1,12 @@
+bool A
+bool B
+bool X
+bool Y
+bool RT
+bool LT
+bool Back
+bool Start
+float32 cross_x
+float32 cross_y
+float32 stick_x
+float32 stick_y

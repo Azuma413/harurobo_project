@@ -1,0 +1,8 @@
+#goal
+float32 linear_pos
+float32 launch_power
+---
+#result
+bool success
+---
+#feedback

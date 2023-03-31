@@ -1,0 +1,11 @@
+<launch>
+  <node pkg="harurobo" name="connect_controller" type="connect_controller.py"/>
+  <node pkg="harurobo" name="launcher_node" type="launcher_node.py"/>
+  <node pkg="harurobo" name="sword_A_node" type="sword_A_node.py"/>
+  <node pkg="harurobo" name="sword_B_node" type="sword_B_node.py"/>
+  <node pkg="harurobo" name="omni_node" type="omni_node.py"/>
+  <node pkg="harurobo" name="hat_node" type="hat_node.py"/>
+  <node pkg="harurobo" name="connect_f7" type="connect_f7.py"/>
+  <node pkg="harurobo" name="send_udp" type="send_udp.py"/>
+  <node pkg="harurobo" name="receive_udp" type="receive_udp.py"/>
+</launch>
